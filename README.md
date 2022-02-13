@@ -1,2 +1,2 @@
 # my_portfolio
-My Portfolio
+Naujausias  Portfolio projektas su Laravel 6 My Portfolio
